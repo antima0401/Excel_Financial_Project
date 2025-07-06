@@ -24,13 +24,13 @@ The domain of this problem is financial auditing. Multinational corporations are
 - Canva (for PPT)
 
 ## Core Findings
-80% error reduction
-₹700,000 cost saved
-ROI of 383%
-Compliance improvement with firms like Deloitte and EY
+- 80% error reduction
+- ₹700,000 cost saved
+- ROI of 383%
+- Compliance improvement with firms like Deloitte and EY
 
 ## Recommendations
-Adopt a hybrid auditing model
-Upskill audit teams
-Start with high-impact use cases
+- Adopt a hybrid auditing model
+- Upskill audit teams
+- Start with high-impact use cases
 
